@@ -1,6 +1,6 @@
 # Simple temperature meter
 
-![1st prototype](./Pictures/Assembly.jpg)
+![1st prototype](.github/Pictures/Assembly.jpg)
 
 - MAX31865 15-Bit ADC
 - RP2040 MCU
