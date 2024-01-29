@@ -10,3 +10,11 @@ A simple 15-bit digital temperature meter capable of reading temperatures rangin
 - RP2040 MCU
 - TPS7A26 linear voltage regulator
 
+### Revision 1.X
+
+- The first working prototype
+- Focus on compact sizing over all
+
+### Revision 2.X
+
+- Focus shifted to ease of construction
